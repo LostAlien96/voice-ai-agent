@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# Output files (generated at runtime)
+output/*
+!output/.gitkeep
+
+# Model cache
+.cache/
+huggingface/
+
+# Gradio temp files
+gradio_cached_examples/
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+.idea/
+*.swp

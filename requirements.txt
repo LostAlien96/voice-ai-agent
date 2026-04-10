@@ -1,0 +1,20 @@
+# Core UI
+gradio>=4.26.0
+
+# STT — local Whisper via HuggingFace
+transformers>=4.40.0
+torch>=2.2.0
+torchaudio>=2.2.0
+
+# Audio I/O
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Groq API (fallback STT if local model is slow)
+groq>=0.5.0
+
+# HTTP client for Ollama
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0
