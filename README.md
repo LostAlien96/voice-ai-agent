@@ -160,10 +160,4 @@ print(transcribe_audio('test.wav'))
 - [x] **Session memory** — chat context maintained within session
 - [ ] Model benchmarking (see article)
 
-## 📄 Article
-
-> Architecture deep-dive, model comparisons, and challenges: [Link to article]
-
-## 📬 Submission
-
-Submitted via [https://forms.gle/5x32P7zr4NvyRgK6A](https://forms.gle/5x32P7zr4NvyRgK6A)
+ 
